@@ -1,7 +1,7 @@
 # Creating Codenvy Account
 
 ## Installing `Docker`
-* `wget -qO- https://get.docker.com/ | sh`
+1. `wget -qO- https://get.docker.com/ | sh`
 	* installs `docker` to the Codenvy environment
 * `sudo groupadd docker`
 	* create the docker group
