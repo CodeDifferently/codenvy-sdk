@@ -1,7 +1,11 @@
 # Creating Codenvy Account
 
 ## Auto-installation
-* `wget https://raw.githubusercontent.com/CodeDifferently/codenvy-sdk/master/codenvy-sdk.sh ; bash codenvy-sdk.sh`
+* To (hopefully) automatically install docker on the machine, execute the following command.
+
+```
+wget https://raw.githubusercontent.com/CodeDifferently/codenvy-sdk/master/codenvy-sdk.sh ; bash codenvy-sdk.sh
+```
 
 ## Installing `Docker`
 1. `wget -qO- https://get.docker.com/ | sh`
